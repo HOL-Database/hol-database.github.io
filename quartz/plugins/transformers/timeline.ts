@@ -35,7 +35,7 @@ export const LocalCustomTransformer: QuartzTransformerPlugin = () => {
         });
 
         return `<div class="timeline">\n${timelineItems.join('')}\n</div>`;
-      })
+      });
 
       src = srcs.join('');
 
