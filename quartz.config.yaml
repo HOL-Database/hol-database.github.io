@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: hol-database.github.io/quartz
+  baseUrl: hol-database.github.io
   ignorePatterns:
     - private
     - templates
