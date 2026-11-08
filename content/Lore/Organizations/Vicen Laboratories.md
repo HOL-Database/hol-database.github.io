@@ -1,0 +1,4 @@
+### About
+Vicen Labs is a faction descended from an old alchemists’ guild with focus on research and development. This company was responsible for the emergence of Chimeric Humans.
+
+Vicen Labs' current owner, Johan Vicen, is a jolly fellow who has great interest in scientific discovery, even without much benefit to the world. Under him, he has several executives that oversee different divisions of the labs with purposes to develop proper products and creatures. Occasionally, their research is leaked to the public, as a sickness, or maybe a released experiment/experimentee gone rampant. While they aren’t even close to being a government agency, they can still get away with breaking the law as many countries get their majority of medical supplies from Vicen Labs.

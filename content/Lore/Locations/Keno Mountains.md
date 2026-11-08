@@ -1,0 +1,3 @@
+The Keno Mountains are the primary operating place of [[Keno Mining Operations]].
+
+The Keno mountains have a special property to them. Deep in the largest mountain, there is a pit that leads down to lava. The miners throw scrap metal and gem shavings into it, and once every four years, that lava rises through the caves, redistributing precious minerals throughout the mines. It is a replenishing resource in the world, and it doesn’t seem to stop or falter any year. Many even believe that a demigod makes the replenishing happen, and the scrap metal and gem shavings are a tribute to the god.

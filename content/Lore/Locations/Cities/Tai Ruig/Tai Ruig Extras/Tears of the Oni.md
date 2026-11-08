@@ -1,0 +1,3 @@
+In Tai Ruig there are several gangs in the middle layers that compete for territory against each other. One of these gangs is the Tears of the Oni. It's primarily centred in the 4th to 6th layers, which are the the most contested of any other layer. The gang is lead by the oni name Koto Tobei that tries to recruit as many oni as possible into the gang. They control most of the transit systems in these layers. Currently their primary enemy is Depthhounds, a drow gang situated in the same layers as them.
+
+While often seen as destructive and reckless, their antics have methodical planning to them.

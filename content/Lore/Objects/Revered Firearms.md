@@ -1,0 +1,5 @@
+Revered Firearms are sleek and elegant weapons, made of dark metal and white marble, all with deep gold filigree and gilding. They work relatively the same as normal weapons, but are made to shoot bullets of fire. The effectiveness of the guns grow this the aptitude and skill of their owners, ranging to feeling like a rubber band to being able to blast through steel plates. The owner of a firearm can innately conjure a projection of the face of each and every life the firearm has taken to hover above the gun. This was given as a reminder to anyone who uses a Revered Firearm for murder or other heinous crimes their actions and the lives they have taken.
+
+There are devices that can also read the victims of a Revered Firearm, as well as display the owner of the gun. An individual with a personal Revered Firearm has white pupils as opposed to the normal black.
+
+Revered Firearms are not to be used violently unless in extreme circumstances. However, there are licensed individuals who have proven they are responsible with their power and can use them as a weapon just like any other.

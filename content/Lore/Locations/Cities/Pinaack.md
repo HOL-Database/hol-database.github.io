@@ -1,0 +1,1 @@
+Pinaack is the capital of [[Terswych]], and the home of [[Eri Ceono|Emperor Eri]]. It is in the Basalt Forest, a natural landscape of towering rock pillars on which the residents built their homes.

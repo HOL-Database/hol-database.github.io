@@ -1,0 +1,1 @@
+Onasaku is the capital of [[Kozu]].

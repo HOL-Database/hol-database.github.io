@@ -1,0 +1,2 @@
+### About
+The Knights of the Lacuna are a group of warrior-historians that collect missing pieces of the past, through apparently any means necessary. They are descended from a group of monks whose primary belief is that, without the past, there is no future. On occasion, the Knights are open for commissary work as warriors while they aren’t searching for missing pieces.

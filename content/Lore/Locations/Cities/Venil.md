@@ -1,0 +1,1 @@
+Venil is the capital of [[Urcurn]] and the home of [[The Only Academy]].

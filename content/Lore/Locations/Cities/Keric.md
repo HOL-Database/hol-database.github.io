@@ -1,0 +1,1 @@
+Keric was the capital of [[Gilront]] before it was taken over by [[The Rioteers]].

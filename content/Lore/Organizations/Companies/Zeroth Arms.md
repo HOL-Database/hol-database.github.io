@@ -1,0 +1,1 @@
+Zeroth Arms is a [[Tenevel]] multinational military manufacturing company. They are the world's leading firearms manufacturer, and their catalogue also includes cybernetics, vehicles, explosives, and other technological devices. Their primary business rival is [[Urcurn Court of Military Technology (U.C.M.T.)|U.C.M.T.]].

@@ -1,0 +1,3 @@
+### About
+The Urcurn Orrery is a faction run by archmages from around Urcurn. Overall, Urcurn has the most powerful mages in the world thanks to this faction. Their goal is, of course, to study magic to its fullest, something that most of them believe is impossible, as magic is endless in knowledge. They also have wizards for hire, at a high price. If someone has a mage at their side from the Orrery, they are either a person of high stature, or just has copious amounts of money.
+The Orrery also runs the most prestigious wizarding academy in the world, egotistically named The Only Academy. Many people dream to go to this school to learn magic, yet most don’t get the chance to.

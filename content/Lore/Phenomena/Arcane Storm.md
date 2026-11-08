@@ -1,0 +1,5 @@
+Arcane storms are a natural and magical atmospheric phenomenon, presiding mostly in the middle-upper regions of [[Gilront]]. They started appearing around the same time that [[The Rioteers]] did, sixteen years ago. Some believe the two are linked, though nobody has gathered enough information on either to determine whether this theory has any truth to it..
+
+Those that are inside a storm experience magical fluctuations as well as sporadic spells cast around them alongside normal storm precipitation. It is generally advised evacuate in the event of an Arcane Storm approaching, and if one cannot, it is important to avoid using spells within one for one's own safety.
+
+Recently, these storms receded after a publicly unknown event happened in [[Beskerd]], which also caused the disappearance of the Rioteers. [[Highlands Operations and Logistics|H.O.L.]] is responsible for this, with their [[Squad 5B]] having destroyed the [[The Catalyst]], which is assumedly the cause of both the Rioteers and the storms.

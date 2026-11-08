@@ -1,0 +1,2 @@
+### About
+The Church of Melumose is a religious body in the country of [[Athelan]]. It is many centuries old, and spreads the teachings of the deceased god [[Melumose]]. You can read more about the religion and its structure [[Melumose|here]].

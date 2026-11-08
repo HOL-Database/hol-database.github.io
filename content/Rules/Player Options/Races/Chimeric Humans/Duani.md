@@ -1,0 +1,9 @@
+Duani are Chimeric Humans with bird-like features. This includes both songbirds and birds of prey, among other types of birds. They always have bird wings on their backs that allow them to fly. They also have lighter than normal body-weights. Some Duani sport feathers growing out of their scalp the same colour as their hair.
+
+**Ability Score Increase.** Your Dexterity score increases by 1, and your Wisdom or Charisma score increases by 2.
+**Age.** Duani age and mature at the same rates as humans.
+**Size.** Duani are usually slightly shorter than humans, between 4 to 6 feet tall, but are half the weight, thanks to their lighter, bird-like bones. Your size is medium.
+***Speed.*** Your base walking speed is 20 feet from your bird-like feet, which are somewhat difficult to move quickly with, and you have a base flying speed of 40 feet, thanks to your large wings. You don’t get this flying speed if you are wearing armour over 50 pounds
+**Raptor Eyesight.** You can see clearly up to one mile away, and you have advantage on perception checks to do with seeing, and against checks that would blind you.
+**Talons.** Your bird-like feet can grasp small objects and creatures, and have very sharp talons. While flying, your unarmed strikes you make with your talons deal 1d4 slashing damage, and have the finesse trait. Additionally, you can grapple creatures that are the same size or smaller than you while keeping your hands free, and you can fly while grappling them, pulling them with you. If you are grappling a creature this way that is Medium, your flying speed is halved for as long as you are grappling them.
+**Languages.** You can speak, read, and write one Common language and one other language of your choice.

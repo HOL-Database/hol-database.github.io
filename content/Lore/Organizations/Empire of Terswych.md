@@ -1,0 +1,2 @@
+### About
+The Empire of Terswych is a warlike country with its leader being Eri Ceono, an elvish emperor that seemingly will stop at nothing to conquer the Empire of Athe. Something that scares the other countries is that she isn't making any alliances, which leads them to believe she are going to continue conquering after they are done with Athe. Something not war related about Terswych is their skill with traditional weapons, especially bows. If you have a bow from Terswych, it’s the last bow you’ll ever need.

@@ -1,0 +1,1 @@
+Heretic Firearms are the official name of non-Athaean firearms, as decided upon by the leaders of Keoris in respect to the Athaean culture. However, they are most often just called guns or firearms.

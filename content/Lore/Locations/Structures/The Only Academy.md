@@ -1,0 +1,1 @@
+The Only Academy is the most prestigious magic college in all of Keoris. It has a sizable portion of [[Venil]] dedicated to it and the services that students would need to attend there.

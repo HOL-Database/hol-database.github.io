@@ -1,0 +1,3 @@
+Melumano is the capital of [[Athelan]], with [[Melumose]]'s pyre at its heart. Melumano has very clean and artistic architecture, with wide stone-paved streets and houses with pillars adorning their fronts. Cars and other forms of mechanical private transport are illegal in Melumano. This is because the city was built to be very walkable, with many undriveable roads with stairs and railings for pedestrians. However, there is a public trolley system.
+
+In the centre of the city is the great church of Melumose's Pyre, stretching hundreds of feet into the sky. it is the primary place of worship in the country, and where the goddess of power and fire took her last breath.
