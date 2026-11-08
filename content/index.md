@@ -41,7 +41,7 @@ Highlands Operations and Logistics is an organization primarily focused on colle
 ##### [[Tenevel Mafia|The Tenevel Mafia]]
 The Tenevel Mafia unofficially rules the country while the royals take care of diplomatic situations with other lands in an uneasy treaty. They are lead by the [[Baron Angeim]] and deal in favors, often with people needing a chance to get back on their feet.
 
-##### [[The Rioteers]]"_ 
+##### [[The Rioteers]]
 The Rioteers were a wild kind of people that have unknown origins. They were situated in the centre of [[Beskerd]], the former capital of [[Gilront]]. The city was clouded by the [[Arcane Storm]], which some people theorized causes their crazed killing.
 
 ##### [[Vicen Laboratories]]
