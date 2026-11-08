@@ -1,4 +1,4 @@
-import { QuartzTransformerPlugin } from "../types" //
+import { QuartzTransformerPlugin } from "../types";
 
 export const LocalCustomTransformer: QuartzTransformerPlugin = () => {
   return {
