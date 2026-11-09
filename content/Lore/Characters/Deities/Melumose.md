@@ -17,7 +17,7 @@ In the year 1217, in the wake of the [[Timeline of Keoris History|Cyber Revoluti
 > **Devotee Hierarchy**
 > ----------------------
 >  **Grand Speaker of the Fervour**
->  The highest ranking role under Melumose herself. Traditionally, the Grand Speakers would speak with Melumose to spread her teachings among other members of the religion, as well as record them in tomes. However, after her death, the Grand Speakers have lost some of their original purpose, as without a god to speak to, they can only teach what has already been taught. Otherwise, their purpose is to rule the country of [[Athelan]] based on the goddess's teachings.
+>  The highest ranking role under Melumose herself. Traditionally, the Grand Speakers would speak with Melumose to spread her teachings among other members of the religion, as well as record them in tomes. However, after her death, the Grand Speakers have lost some of their original purpose, as without a god to speak to, they can only teach what has already been taught. Otherwise, their purpose is to advise the emperor and empress of the country of [[Athelan]] based on the goddess's teachings.
 >  
 >  **Chaplains of the Fire**
 >  The Chaplains are heads of the churches of Melumose, managing the stokers under them. This is often the highest position one can achieve through only devotion, as reaching Grand Speaker requires winning a competition against other chaplains, though this doesn't happen often after the death of Melumose. Chaplains have lodging in their own churches.
