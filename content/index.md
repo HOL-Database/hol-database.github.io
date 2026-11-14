@@ -20,7 +20,7 @@ Urcurn is a lush jungle country known for its advanced farming bunkers and the [
 Sikurg is a hilly northern country that is known for its high reputation in trading and shipping and it's capital city [[Tai Ruig]]. It is also home to [[Highlands Operations and Logistics]].
 
 ##### [[Gilront]]
-Gilront is a cold and snowy country that has been weakened over the last decade or so from [[The Rioteers]] and the [[Arcane Storm|Arcane Storms]]. They are trying to strengthen their military now, with the looming threat of a possible war from [[Terswych]].
+Gilront is a cold and snowy country that has been weakened over the last decade or so from [[The Rioteers]] and the [[Arcane Storm|Arcane Storms]]. They are trying to strengthen their military now, but [[Terswych]]'s military efforts against [[Athelan]] are pulling mercenaries away from Gilront to the frontlines to the west.
 
 ##### [[Tenevel]]
 Tenevel is a tropical expanse of country to the south known for its rich nobles and fruit exports, as well as its traditional taste in technology. It is also home to the[[ Tenevel Mafia]].

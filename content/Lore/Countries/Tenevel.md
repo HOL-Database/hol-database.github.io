@@ -6,7 +6,7 @@
 > | **Population** | ~25,500,000 | 
 > | **Capital** | [[Aberasa]] | 
 > | **Common Races** | High Elves, Nephilims, Giants, Humans, Chimeric Humans |
-> | **Main Language** | Tenevel |
+> | **Main Language** | Tenevian |
 
 Tenevel is a Keoric country bordering [[Urcurn]], [[Kozu]], and the Dorrik Sea. It is technically a monarchy ruled by its rightful king, but it is under effective control of the [[Tenevel Mafia]]. Its capital, [[Aberasa]] is the wealthiest and largest city in Keoris.
 
@@ -24,6 +24,6 @@ The Field Lakes, situated in central Tenevel are large-ish bodies of water that 
 The Wake is a massive mountainous structure that is actually the ruins of an ancient volcano. It is made of an incredibly structurally strong stone that can hold millions of tonnes. As such, the Wake overhangs for miles above the outskirts of the city of [[Aberasa]] below.
 
 ### Currency
-The Tenevel people use a currency they call "plaques". These plaques are a fancy rectangular shape, and are made to stack on top of each other well. There are copper, silver, gold, and platinum plaques, each equivalent to the [[Sikurg|Kurgish]] pieces of the same material.
+The Tenevian people use a currency they call "plaques". These plaques are a fancy rectangular shape, and are made to stack on top of each other well. There are copper, silver, gold, and platinum plaques, each equivalent to the [[Sikurg|Kurgish]] pieces of the same material.
 
-Tenevel plaques have the magical property of the back side shifting to display active bounties in Tenevel, with the value of the plaque showing higher bounties.
+Tenevian plaques have the magical property of the back side shifting to display active bounties in Tenevel, with the value of the plaque showing higher bounties.
