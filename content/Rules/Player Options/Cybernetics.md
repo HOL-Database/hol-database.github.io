@@ -27,10 +27,16 @@ These cybernetic eyes grant improved analyzation capabilities of technological d
 
 **Arthulaxx's Maw**
 *Cybernetics (internal), rare*
-This throat modification is named after a legendary red dragon of years past. Once per day, as a bonus action, you can activate the cybernetic gland to gain the effects of a *potion of fire breathing*. 
+This throat modification made by Zeroth Arms is named after a legendary red dragon of years past. Once per day, as a bonus action, you can activate the cybernetic gland to gain the effects of a *potion of fire breathing*. 
 
 #### External Cybernetics
 
 **Pickpocket**
 *Cybernetics (external, one hand), uncommon
 This cybernetic hand has embedded tools in its fingers for sneaking around. With this hand installed, you always have thieves' tools equipped, and you cannot be disarmed of them.
+
+**Rimesteel Arms**
+*Wondrous item, rare (attunement optional)*
+These cybernetic arms manufactured by U.C.M.T. release a freezing cloud to hinder your foes.
+One time per day, as an action, you can cast *fog cloud* at 2nd level from the arms. A spell cast this way has a duration of 1 minute and does not require concentration. 
+*With attunement.* You can cast *fog cloud* three times per day. Additionally, when you hit a creature in the cloud with the Rimesteel Arms, they take an additional 1d4 cold damage. 
