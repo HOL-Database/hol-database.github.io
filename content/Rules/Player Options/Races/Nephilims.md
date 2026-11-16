@@ -2,7 +2,7 @@ Nephilims were created by two twin gods, and as such there are two variants of N
 
 Nephilims are always born as twins. One a ringed nephilim, one a horned nephilim.
 
-**Ability Score Increase.** Either your Charisma score increases by 2, and your Wisdom score increases by 1.
+**Ability Score Increase.** Either your Charisma or Wisdom score increases by 2, and the other score increases by 1.
 **Age.** Nephilims age at the same rates as humans, but live for twice as long.
 **Speed.** Your base walking speed is 30 ft.
 **Death and Life.** Whenever a hostile creature within 30 ft. of you is reduced to 0 hit points, you gain a number of temporary hit points equal to your proficiency bonus.
@@ -17,4 +17,4 @@ Horned Nephilims have horns of different animals such as goats, elk, deer, drake
 ###### Ringed Nephilims
 Ringed Nephilims are closer visually to normal humans, but have a halo that hovers above their head. These halos can manifest in many different ways. Lightning, fire, liquid, leafy branches, etc. are all valid manifestations. These Nephilims are associated with deliberation and order.
 
-**Hone Skill.** Choose a tool, weapon, or other item you have proficiency in, or a spell you know. All d20 rolls you make with that item or spell gets a bonus to those rolls equal to half your proficiency bonus. Whenever you level up, you can choose a new item or spell to give this bonus to.
+**Hone Skill.** Choose a tool, weapon, or other item you have proficiency in, or a spell you know. All d20 rolls you make with that item or spell gets a bonus to those rolls equal to half your proficiency bonus, rounded down. Whenever you level up, you can choose a new item or spell to give this bonus to.

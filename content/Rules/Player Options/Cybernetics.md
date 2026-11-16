@@ -11,7 +11,7 @@ This will be filled out more as cybernetics are discovered.
 
 #### Neural Cybernetics
 
-**U.S.C.M. Mind Partition**
+**U.C.M.T. Mind Partition**
 *Cybernetic (neural), very rare (attunement optional)*
 This cybernetic enhancement grants the wearer extra mental capacity. Your intelligence score is 17 with this cybernetic installed. It has no effect on you if your Intelligence is 17 or higher without it. Additionally, if you know a creature is reading your mind, you can choose what thoughts they read, keeping your secret thoughts hidden.
 *With Attunement.* You can hold concentration on up to two spells at once. 
@@ -32,10 +32,10 @@ This throat modification made by Zeroth Arms is named after a legendary red drag
 #### External Cybernetics
 
 **Pickpocket**
-*Cybernetics (external, one hand), uncommon
+*Cybernetics (external, one hand), uncommon*
 This cybernetic hand has embedded tools in its fingers for sneaking around. With this hand installed, you always have thieves' tools equipped, and you cannot be disarmed of them.
 
-**Rimesteel Arms**
+**U.C.M.T. Rimesteel Arms**
 *Wondrous item, rare (attunement optional)*
 These cybernetic arms manufactured by U.C.M.T. release a freezing cloud to hinder your foes.
 One time per day, as an action, you can cast *fog cloud* at 2nd level from the arms. A spell cast this way has a duration of 1 minute and does not require concentration. 

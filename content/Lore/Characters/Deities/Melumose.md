@@ -2,7 +2,7 @@
 tags:
 ---
 
-Melumose was the goddess of Fire, Insight, Healing, and Power. She was the primary god of [[Athelan]] before she was killed by [[Timeline of Keoris History|The Heretic]]. She is still worshiped their posthumously, as her teachings still greatly benefit the country and its people.
+Melumose was the goddess of Fire, Insight, Healing, and Power. She was the primary god of [[Athelan]] before she was killed by [[Timeline of Keoris History|The Heretic]]. She is still worshiped there posthumously, as her teachings still greatly benefit the country and its people.
 
 ##### Culture
 The religion of Melumose can be seen as fairly traditional from the outside, but her teachings are centred around understanding, self control, and empathy. She is rarely worshiped outside of [[Athelan]], and even then, mostly by Athaeans living abroad.
@@ -47,7 +47,7 @@ In the year 893, [[Tenevel]] split off from the country of Athelan to become ind
 
 In 1217, Melumose gave a gift to the Athaean people among the technological revolutions springing up everywhere. A weapon that became rooted in the culture of the Athaean people. [[Lore/Objects/Revered Firearms]] are granted to every citizen of Athelan at age of thirteen, as a lesson in power and how to wield and respect it. This implementation into the Athaean culture has worked incredibly well, not only paving the way for many sports and events based around one's Revered Firearm, but engraining respect and self-control into nearly every Athaean citizen. Additionally, less than 0.1% of crimes committed in Athelan are done using a Revered Firearm.
 
-The gift of Revered Firearms was bound to create issues. And up to this point in 1223, it had, but not to this scale. An Aasimar went on a killing spree, the empathetic aura of his Revered Firearm allowing him to feel the life of his victims get snuffed out. He was known as the Heretic. Eventually he was stopped with a sword through the heart, but not before he managed to kill Melumose with her own gift to the people of Athe. The sword now rests in the Grand Cathedral of Melumose, on display in the exact spot the Heretic was killed.
+The gift of Revered Firearms was bound to create issues. And up to this point in 1223, it had, but not to this scale. A Ringed Nephilim went on a killing spree, crazed by the newfound power in his Revered Firearm. He was known as the Heretic. Eventually he was stopped with a sword through the heart, but not before he managed to kill Melumose with her own gift to the people of Athe. The sword now rests in the Grand Cathedral of Melumose, on display in the exact spot the Heretic was killed.
 
 His Revered Firearm, now referred to as the First Heretic Firearm, has been lost. It is said that some of the Heretic's followers managed to confiscate it and escape to Tenevel, bringing their own firearms with them, as well as gunsmithing blueprints to forge more guns without the gift of Melumose forged into them. This is how firearms spread to the rest of the world. Any firearm not made by an Athaean gun-priest is considered a Heretic Firearm -- a weapon for war and killing.
 

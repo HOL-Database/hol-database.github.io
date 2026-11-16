@@ -29,3 +29,34 @@ Players can use Inspiration like being able to use XP in the Cypher System to do
 - A slowed creature must spend 1 extra foot of movement for every foot it moves using its Speed.
 - Attack rolls against a slowed creature have Advantage.
 - A slowed creature has Disadvantage on Dexterity saving throws.
+
+#### Langnuages
+
+**Common Languages (Country Langauges)**
+Athaean
+Gilran
+Kozan
+Kurgish
+Tenevian
+Terswish
+Urcuran
+
+**Old Humanoid Languages**
+Elvish
+Dwarven
+Goblin
+Orcish
+Halfling
+Gnomish
+Giant
+Infernal (Nephilim language, informal and casual)
+Celestial (Nephilim language, very formal and rigid)
+
+**Non Humanoid Langages**
+Sylvan
+Draconic
+Primordial
+Abyssal
+Undercommon
+Deep Speech
+Undercommon
