@@ -1,1 +1,1 @@
-Keric was the capital of [[Gilront]] before it was taken over by [[The Rioteers]].
+Kerik is the capital of [[Gilront]] after [[Beskerd]] was taken over by [[The Rioteers]].

@@ -1,1 +1,1 @@
-Beskerd is the capital of [[Gilront]] after [[Keric]] was taken over by [[The Rioteers]].
+Beskerd was the capital of [[Gilront]] before it was taken over by [[The Rioteers]].
