@@ -13,31 +13,31 @@ Tacticians use quick thinking and a commanding presence to gain an upper hand in
 
 ##### The Tactician
 
-| Level | Proficiency<br> Bonus | Features                             | Tactics Dice |
-| ----- | ------------------------- | ------------------------------------ | ------------ |
-| 1st   | +2                        | Preemptive Thinking, Tactical Orders | 1d6          |
-| 2nd   | +2                        | Expert Defence                       | 1d6          |
-| 3rd   | +2                        | Tactician Speciality                 | 1d6          |
-| 4th   | +2                        | Ability Score Improvement            | 1d6          |
-| 5th   | +3                        | Carrying Voice, Extra Attack         | 1d6          |
-| 6th   | +3                        | Speciality Feature                   | 1d6          |
-| 7th   | +3                        | Additional Tactical Orders           | 1d6          |
-| 8th   | +3                        | Ability Score Improvement            | 1d6          |
-| 9th   | +4                        | Reactive Mind                        | 1d8          |
-| 10th  | +4                        | Speciality Feature                   | 1d8          |
-| 11th  | +4                        | Into Position                        | 1d8          |
-| 12th  | +4                        | Ability Score Improvement            | 1d8          |
-| 13th  | +5                        | Adaptive Skill Set                   | 1d8          |
-| 14th  | +5                        | Ability Score Improvement            | 1d8          |
-| 15th  | +5                        | Additional Tactical Orders           | 1d10         |
-| 16th  | +5                        | Ability Score Improvement            | 1d10         |
-| 17th  | +6                        | Speciality Feature                   | 1d10         |
-| 18th  | +6                        | Steady Orders                        | 1d10         |
-| 19th  | +6                        | Ability Score Improvement            | 1d10         |
-| 20th  | +6                        | Area of Awareness                    | 1d10         |
+| Level | Proficiency<br>Bonus | Features                             | Tactics Dice |
+| ----- | -------------------- | ------------------------------------ | ------------ |
+| 1st   | +2                   | Preemptive Thinking, Tactical Orders | 1d6          |
+| 2nd   | +2                   | Expert Defence, Fighting Style       | 1d6          |
+| 3rd   | +2                   | Tactician Speciality                 | 1d6          |
+| 4th   | +2                   | Ability Score Improvement            | 1d6          |
+| 5th   | +3                   | Carrying Voice, Extra Attack         | 1d6          |
+| 6th   | +3                   | Speciality Feature                   | 1d6          |
+| 7th   | +3                   | Additional Tactical Orders           | 1d6          |
+| 8th   | +3                   | Ability Score Improvement            | 1d6          |
+| 9th   | +4                   | Reactive Mind                        | 1d8          |
+| 10th  | +4                   | Speciality Feature                   | 1d8          |
+| 11th  | +4                   | Into Position                        | 1d8          |
+| 12th  | +4                   | Ability Score Improvement            | 1d8          |
+| 13th  | +5                   | Adaptive Skill Set                   | 1d8          |
+| 14th  | +5                   | Ability Score Improvement            | 1d8          |
+| 15th  | +5                   | Additional Tactical Orders           | 1d10         |
+| 16th  | +5                   | Ability Score Improvement            | 1d10         |
+| 17th  | +6                   | Speciality Feature                   | 1d10         |
+| 18th  | +6                   | Steady Orders                        | 1d10         |
+| 19th  | +6                   | Ability Score Improvement            | 1d10         |
+| 20th  | +6                   | Area of Awareness                    | 1d10         |
 
 #### Class Features
-As a tactician, you gain the following class features.
+As a tactician, you gain the following class features.  
 
 ###### Hit Points
 **Hit Dice:** 1d8 per tactician level
@@ -86,8 +86,11 @@ You gain additional orders at 7th and 15th levels.
 **Retreating Order.** As a bonus action, you can expend a number of tactics dice (maximum equal to your Charisma modifier) and tell your allies to retreat. Choose a number of allies within 30 feet of you equal to the amount of tactics dice you spent. Those creatures can each move up to their speed as a reaction away from creatures hostile to them, without provoking opportunity attacks.
 **Powerful Order.** As a reaction, you can expend up to three tactics dice to empower an ally’s attack. When a friendly creature hits a creature with a weapon or spell attack, you can have them roll the tactics dice you spent and add the total to their damage roll.
 
-###### Expert Defence
+###### Expert Defense
 At 2nd level, you’ve become very experienced with defending you and your allies. As long as you are wielding a shield, allies within 5 feet of you gain the bonus of the shield to their AC as well, as long as they themself aren’t wielding a shield.
+
+###### Fighting Style
+Starting at 2nd level, you adopt a particular style of fighting as your specialty. Choose an option among the Fighter fighting styles. You can't take a Fighting Style option more than once, even if you later get to choose again.
 
 ###### Tactician Speciality
 At 3rd level, you choose a tactician speciality from Medic, or Strategist, each of which are detailed at the end of the class description. Your choice grants you features at 3rd, 6th, 10th, and 15th levels.
