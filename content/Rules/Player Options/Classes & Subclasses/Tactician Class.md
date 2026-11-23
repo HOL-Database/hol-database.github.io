@@ -46,7 +46,7 @@ As a tactician, you gain the following class features.
 
 
 ###### Proficiencies
-**Armour:** Light armour, shields
+**Armour:** Light and medium armour, shields
 **Weapons:** Simple weapons, martial weapons
 **Tools:** Cartographer’s tools
 
