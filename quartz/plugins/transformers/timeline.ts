@@ -13,7 +13,8 @@ export const LocalCustomTransformer: QuartzTransformerPlugin = () => {
           return string;
         }
 
-        string = string.replaceAll(/\[\[((?:(?!\]\])(?!\[\[).)*)\]\]/g, '<a href="./$1" class="internal internal-link alias" data-slug="the-protected-age">$1</a>');
+        string = string.replaceAll(/\[\[((?:(?!\]\])(?!\[\[)(?!\|).)+)\|((?:(?!\]\])(?!\[\[)(?!\|).)+)\]\]/g, '<a href="./$1" class="internal internal-link alias" data-slug="the-protected-age">$2</a>');
+        string = string.replaceAll(/\[\[((?:(?!\]\])(?!\[\[).)+)\]\]/g, '<a href="./$1" class="internal internal-link alias" data-slug="the-protected-age">$1</a>');
         string = string.replaceAll(/\*\*([^*]*)\*\*/g, '<strong>$1</strong>');
         string = string.replaceAll(/\*([^*]*)\*/g, '<em>$1</em>');
 
