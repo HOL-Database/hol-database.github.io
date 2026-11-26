@@ -22,7 +22,7 @@ tags:
 > | Codename | Blue Moon |
 > | Primary Class(es) | Brawler |
 > | Experience | Operative |
-> | Squad | [[Squad 5B|5B]] |
+> | Squad | [[Squad 5B]] |
 
 ### Description
 Passionate and confident. A hand to hand fighter who's quick on their feet. They made a name for themselves in their early missions infiltrating gangs within Tai Ruig.
